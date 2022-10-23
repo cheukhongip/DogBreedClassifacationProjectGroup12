@@ -5,3 +5,11 @@ Progress: Continue
 2. EDA
 3. Feature Extraction
 4. Modeling
+
+Datasets: https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
+Coding:
+- FeatureExtraction.ipynb
+  1. OpenCV for Resize and GrayScale
+  2. HOG for feature extration
+- Models.py (In processing)
