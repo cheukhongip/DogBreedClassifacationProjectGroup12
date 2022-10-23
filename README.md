@@ -12,4 +12,5 @@ Coding:
 - FeatureExtraction.ipynb
   1. OpenCV for Resize and GrayScale
   2. HOG for feature extration
+  3. EDA from Pandas DataFrame
 - Models.py (In processing)
