@@ -1,4 +1,4 @@
-# Data245 Group12 Project Dog Breed Classifacation
+# Data245 Group8 Project Dog Breed Classifacation
 
 Progress: Continue
 1. Data Collection
